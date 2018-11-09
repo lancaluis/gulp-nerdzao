@@ -1,0 +1,23 @@
+{
+  "name": "meetup",
+  "version": "1.0.0",
+  "description": "Meetup do Nerdzão em Jundiaí ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nerdzao",
+    "fatec"
+  ],
+  "author": "Luís Lança",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "run-sequence": "^2.2.1"
+  }
+}
