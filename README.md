@@ -5,6 +5,8 @@ Conteúdo sobre Gulp.js ministrado no Meetup do Nerdzão Jundiaí #1
 
 ### Passo a passo 
 
++ Baixe o projeto 
+
 + Instale o **Node.js** através do link: https://nodejs.org/en/
 
 + Instale o **Gulp.js** de forma global, isso fará com que você possa executar os comandos do gulp em qualquer teminal na sua máquina.
