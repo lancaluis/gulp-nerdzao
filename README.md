@@ -15,21 +15,21 @@ Conteúdo sobre Gulp.js ministrado no Meetup do Nerdzão Jundiaí #1
 
 ### Plugins utilizados
 
-+ **gulp-concat:** usado para concatenar arquivos independentemente da sua extensão
+**gulp-concat:** usado para concatenar arquivos independentemente da sua extensão
 > https://www.npmjs.com/package/gulp-concat
 
 
-+ **gulp-imagemin:** usado para minificar imagens. A diferença pode não ser muito perceptível, mas para a aplicação faz muita diferença. 
+**gulp-imagemin:** usado para minificar imagens. A diferença pode não ser muito perceptível, mas para a aplicação faz muita diferença. 
 > https://www.npmjs.com/package/gulp-imagemin
 
 
-+ **gulp-clean-css:** usado para minificar arquivos CSS
+**gulp-clean-css:** usado para minificar arquivos CSS
 > https://www.npmjs.com/package/gulp-clean-css
 
 
-+ **gulp-clean:** usado para apagar arquivos de um diretório ou até ele mesmo
+**gulp-clean:** usado para apagar arquivos de um diretório ou até ele mesmo
 > https://www.npmjs.com/package/gulp-clean
 
 
-+ **run-sequence:** serve para dar sequência nas tarefas, executando várias ao mesmo tempo 
+**run-sequence:** serve para dar sequência nas tarefas, executando várias ao mesmo tempo 
 > https://www.npmjs.com/package/run-sequence
